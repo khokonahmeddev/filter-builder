@@ -1,0 +1,20 @@
+{
+    "name": "khokon/filterbuilder",
+    "description": "read data with filter query",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khorshed Alam",
+            "email": "khokonahmed.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/",
+            "Khokon\\filterbuilder\\": "src/"
+        }
+    },
+}
