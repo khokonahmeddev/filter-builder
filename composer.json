@@ -16,5 +16,5 @@
             "Tests\\": "tests/",
             "Khokon\\filterbuilder\\": "src/"
         }
-    },
+    }
 }
